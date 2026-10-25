@@ -6,3 +6,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #1: Set up Mockgent on Ideato: tasks repo, ledger, project page | 8 | provisional | https://github.com/topc-social/mockgent-tasks/pull/2 |
+| 2 | 2026-10-25 | Kamal Khatwani | Work (99%) on #1: Set up Mockgent on Ideato: tasks repo, ledger, project page | 792 | provisional | https://github.com/topc-social/mockgent-tasks/pull/2 |
